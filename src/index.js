@@ -1,5 +1,6 @@
 import { forEach } from 'lodash-es'
 import * as components from './components'
+import * as utils from './utils'
 
 export const createSlyUi = () => {
     // 可以进行一些预处理...
@@ -14,5 +15,6 @@ export const createSlyUi = () => {
 }
 
 export {
-    components
+    components,
+    utils
 }

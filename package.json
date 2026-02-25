@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "publish": "bash publish.sh"
   },
   "dependencies": {
     "lodash-es": "^4.17.23",
