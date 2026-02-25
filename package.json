@@ -1,7 +1,7 @@
 {
   "name": "sly-pkg",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "lodash-es": "^4.17.23",
-    "sly-pkg": "^0.0.2",
+    "sly-pkg": "latest",
     "vue": "^3.5.24"
   },
   "devDependencies": {
