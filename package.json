@@ -7,7 +7,7 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
-    "publish": "bash publish.sh"
+    "my-publish": "bash publish.sh"
   },
   "dependencies": {
     "lodash-es": "^4.17.23",
