@@ -6,6 +6,7 @@ pnpm run build
 
 git add -A
 git commit -m 'publish'
+git pull
 git push
 
 npm version patch
