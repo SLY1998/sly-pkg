@@ -1,5 +1,5 @@
 <script setup>
-import { utils } from 'sly-pkg'
+import { utils } from '../index'
 </script>
 
 <template>
