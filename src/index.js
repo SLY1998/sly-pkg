@@ -2,6 +2,7 @@ import { forEach } from 'lodash-es'
 import * as components from './components'
 import * as utils from './utils'
 import { sly_pkg_config } from './config'
+export { default as slyRoutes } from './routes'
 
 export const createSlyUi = (config = {}) => {
     // 可以进行一些预处理...
